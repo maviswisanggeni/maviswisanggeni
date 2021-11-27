@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mavis</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **contoh**
+- 🔭 I’m currently study on **SMK Raden Umar Said**
 
 - 📫 How to reach me **maviswisanggeni22@gmail.com**
 
