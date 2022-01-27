@@ -23,7 +23,7 @@ I'm Mavis from Indonesia, and I do content on Design and Development. I really e
 [![Linkedin](https://img.shields.io/badge/-maviswisanggeni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maviswisanggeni/)
 [![Gmail](https://img.shields.io/badge/-maviswisanggeni22@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maviswisanggeni22@gmail.com)
 [![Discord](https://img.shields.io/badge/-Chroma-5663F7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/BUxraQ8)
-![](https://komarev.com/ghpvc/?username=aldiwildan77&label=Visitor&color=2bbc8a)
+![](https://komarev.com/ghpvc/?username=maviswisanggeni&label=Visitor&color=2bbc8a)
 
 <!-- Introduction -->
 I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I run a freelance web and mobile development projects.
