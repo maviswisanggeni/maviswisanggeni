@@ -1,96 +1,43 @@
 ![Design and Development](https://github.com/maviswisanggeni/maviswisanggeni/blob/main/MavisWisanggeni.png)
 
-# Mavis Daffa Wisanggeni
-I'm Mavis from Indonesia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+## Hello There 👋, I'm <a href="https://github.com/maviswisanggeni" target="_blank">Mavis</a>!
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+<a href="https://www.linkedin.com/in/raehan-robban-488994203/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/orsterdohm/" target="_blank"><img align="left" alt="Raehan | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
-## Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maviswisanggeni&langs_count=5&theme=tokyonight)]()
+<br />
+<br />
 
-![Mavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=maviswisanggeni&show_icons=true&theme=tokyonight)
-
-<!-- ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
-
-<!-- Greetings -->
-<!-- ## 👋 Greetings, I'm Mavis!
-
-<!-- Social Media -->
-<!-- [![Linkedin](https://img.shields.io/badge/-maviswisanggeni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maviswisanggeni/)
-[![Gmail](https://img.shields.io/badge/-maviswisanggeni22@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maviswisanggeni22@gmail.com)
-[![Discord](https://img.shields.io/badge/-Chroma-5663F7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/BUxraQ8)
-![](https://komarev.com/ghpvc/?username=maviswisanggeni&label=Visitor&color=2bbc8a)
-
-<!-- Introduction -->
-<!-- I'm a **Software Engineer** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I run a freelance web and mobile development projects.
- -->
-<!-- ## 📃 Things (to / wanna) do
-- 🐝 I have worked on several side projects on a web and mobile development
-- ⚡ I'm currently build my own game service like Minecraft & Rust -->
-<!-- - 🌱 I'm looking to get more familiar with AWS ecosystems
-- ♨️ I'm interested with augmented, virtual, and mixed reality -->
- 
-<!-- ## 📊 Languages
-- ✨ Backend Development: **Golang & NodeJS**
-- ✨ Frontend Development: **Javascript & ReactJS**
-- ✨ Mobile Development: **Kotlin & Java**
-- ✨ Game Development: **Denizen & Java** -->
-
-<!-- ## 🔧 Technologies & Tools
-*GraphQL, Redis, MySQL, Postgre, RabbitMQ, Kafka, Kubernetes, Docker, React, & Postman* --> 
-
-<!--START_SECTION:waka-->
-<!-- **I'm a Night 🦉** 
-
-```text
-🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
-🌆 Daytime    107 commits    ██████░░░░░░░░░░░░░░░░░░░   26.29% 
-🌃 Evening    144 commits    ████████░░░░░░░░░░░░░░░░░   35.38% 
-🌙 Night      98 commits     ██████░░░░░░░░░░░░░░░░░░░   24.08%
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-Tuesday      64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Wednesday    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Thursday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-Friday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Saturday     87 commits     █████░░░░░░░░░░░░░░░░░░░░   21.38% 
-Sunday       67 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46%
-``` -->
+### Languages and Tools:
 
 
-<!-- 📊 **This Week I Spent My Time On** 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img align="left" alt="PostgresSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+  
+### Softwares:
 
-```text
-⌚︎ Time Zone: Asia/Jakarta
-💬 Programming Languages: 
-Go                       17 hrs 26 mins      █████████████████████░░░░   83.83% 
-YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
-🔥 Editors: 
-VS Code                  20 hrs 48 mins      █████████████████████████   100.0%
-```
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TWXeRF1b29BsjyfAfvSFw3Wqkgi_eiZUAg&usqp=CAU" />
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               30 repos            █████████░░░░░░░░░░░░░░░░   37.5% 
-Go                       14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Java                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Kotlin                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-PHP                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-```
+<br />
+<br />
+
+---
 
 
 
-<!--END_SECTION:waka-->
+### Now Playing 🎧
 
-<!-- <sub>Credit: MavisWisanggeni, last edit on - 5 Jan 2022</sub> --> 
+[![Spotify](https://novatorem-mraehanr.vercel.app/api/spotify.py)](https://open.spotify.com/user/geuv644weuu28fkg51p9h8upw?si=cc80b0011cd5463f)
+<br/>
