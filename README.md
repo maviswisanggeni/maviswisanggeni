@@ -2,8 +2,8 @@
 
 ## Hello There 👋, I'm <a href="https://github.com/maviswisanggeni" target="_blank">Mavis</a>!
 
-<a href="https://www.linkedin.com/in/raehan-robban-488994203/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/orsterdohm/" target="_blank"><img align="left" alt="Raehan | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/maviswisanggeni/" target="_blank"><img align="left" alt="Raehan | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br />
 <br />
