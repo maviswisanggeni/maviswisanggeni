@@ -39,5 +39,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem-maviswisanggenii.vercel.app/api/spotify.py)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=ea7e8a595adf4850)
+[![Spotify](https://novatorem-maviswisanggenii.vercel.app/api/spotify)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=ea7e8a595adf4850)
 <br/>
