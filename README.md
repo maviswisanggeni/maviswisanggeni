@@ -39,5 +39,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem-maviswisanggenii.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem-maviswisanggenii.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/maviswissanggeni)
 <br/>
