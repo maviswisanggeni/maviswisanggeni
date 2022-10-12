@@ -7,7 +7,6 @@
 
 <br />
 <br />
-<img src="https://rishavanand.github.io/static/images/greetings.gif">
 
 
 ### Languages and Tools:
