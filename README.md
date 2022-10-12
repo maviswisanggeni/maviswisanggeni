@@ -43,7 +43,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mavis Github Stats" src="https://github-readme-stats.vercel.app/api?username=maviswisanggeni&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&border_radius=20" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mavis Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maviswisanggeni&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&layout=compact&border_radius=20&card_width=450px&langs_count=8"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mavis Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maviswisanggeni&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&layout=compact&border_radius=20&langs_count=8"/></a>
   <br/>
 </details>
 
