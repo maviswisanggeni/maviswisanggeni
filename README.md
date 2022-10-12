@@ -3,10 +3,12 @@
 ## Hello There 👋, I'm <a href="https://github.com/maviswisanggeni" target="_blank">Mavis</a>!
 
 <a href="https://www.linkedin.com/" target="_blank"><img align="left" alt="Mavis | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/maviswisanggeni/" target="_blank"><img align="left" alt="Mavis | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/maviswisanggeni/" target="_blank"><img align="left" alt="Mavis | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 
 <br />
 <br />
+<img src="https://rishavanand.github.io/static/images/greetings.gif">
+
 
 ### Languages and Tools:
 
