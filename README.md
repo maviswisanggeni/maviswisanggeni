@@ -35,7 +35,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ``` javascript
-  console.info("Love Uuuuu :3");
+  literally ayang itu you
+  spill ayang
+  
+  const ayang = you
+  console.log(ayang)
 ```
 
 #### ᵔ.ᵔ Github Stats
