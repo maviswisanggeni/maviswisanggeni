@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ``` javascript
-  literally ayang itu you
+  seriously ayang itu you
   spill ayang
   
   const ayang = you
