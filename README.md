@@ -1,6 +1,7 @@
 ![Design and Development](https://github.com/maviswisanggeni/maviswisanggeni/blob/main/MavisWisanggeni.png)
 
-<h1 align="center"> Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26px" height="26px">, I'm Mavis </br></h1>
+<br />
+
 <p align="center">
  <a href="https://maviswisanggeni.github.io" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/notM22" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
