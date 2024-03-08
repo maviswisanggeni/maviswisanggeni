@@ -20,7 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue_JS-000?style=for-the-badge&logo=vuedotjs&logoColor=)
 
 #### ᵔ.ᵔ Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
