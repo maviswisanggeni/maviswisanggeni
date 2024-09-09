@@ -4,7 +4,6 @@
  <a href="https://maviswisanggeni.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/1wg_mv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/maviswisanggeni/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
-
 <br />
 
 #### ♫ Now Playing
@@ -41,9 +40,15 @@
   <br/>
 </details>
 
+
 #### ᵔ.ᵔ Streak Stats
 <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=maviswisanggeni&theme=dark&hide_border=true&border_radius=20"></img>
+  
 </p>
 
 ---
+
+<p align="right">
+ <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmaviswisanggeni&label=VISITORS&labelColor=%23000000&countColor=%23000aff&labelStyle=none"></img>
+</p>
