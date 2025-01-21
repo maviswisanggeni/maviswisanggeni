@@ -8,7 +8,7 @@
 
 #### ♫ Now Playing
 
-[![Spotify](https://novatorem-maviswisanggeni.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=8567d9ae47c841e2)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/w2xmv)
 
 #### ᵔ.ᵔ Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
