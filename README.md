@@ -10,28 +10,30 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/irhp0zsapnj2hgtpmivbfj1hy?si=c9c67096c88a4319)
 
-#### ᵔ.ᵔ Languages
+#### ⟡ Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
   
-#### ᵔ.ᵔ Framework/Library
+#### ⟡ Framework/Library
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Vue](https://img.shields.io/badge/Vue_JS-000?style=for-the-badge&logo=vuedotjs&logoColor=)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next_JS-000?style=for-the-badge&logo=nextdotjs)
 
-#### ᵔ.ᵔ Tools
+#### ⟡ Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
-#### ᵔ.ᵔ Version Control
+#### ⟡ Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-#### ᵔ.ᵔ Github Stats
+#### ⟡ Github Stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -39,13 +41,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mavis Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maviswisanggeni&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&layout=compact&border_radius=20&langs_count=8"/></a>
   <br/>
 </details>
-
-
-#### ᵔ.ᵔ Streak Stats
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=maviswisanggeni&theme=dark&hide_border=true&border_radius=20"></img>
-  
-</p>
 
 ---
 
