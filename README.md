@@ -8,7 +8,7 @@
 
 #### ♫ Now Playing
 
-[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/irhp0zsapnj2hgtpmivbfj1hy)](https://open.spotify.com/user/irhp0zsapnj2hgtpmivbfj1hy)
+[![Spotify](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=181414)](https://open.spotify.com/user/irhp0zsapnj2hgtpmivbfj1hy)
 
 #### ⟡ Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
